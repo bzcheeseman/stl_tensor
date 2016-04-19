@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Tensor.h"
+#include "../Tensor.h"
 
 using namespace std;
 
